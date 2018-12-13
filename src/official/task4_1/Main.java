@@ -10,3 +10,11 @@ public class Main {
     }
 
 }
+
+
+//        CELE I ZADANIA:
+//        • Przetestuj przekazywanie argumentów zewnętrznych do programu
+//        ALGORYTM WYKONANIA:
+//        • Skompiluj i uruchom program z poziomu IDE
+//        • Zmodyfikuj konfigurację uruchomieniową i zdefiniuj argumenty zewnętrzne
+//        • Ponownie uruchom program i sprawdźmenty zewnętrzne

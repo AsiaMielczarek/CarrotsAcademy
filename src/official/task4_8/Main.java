@@ -15,3 +15,11 @@ public class Main {
     }
 }
 
+
+//        CELE I ZADANIA:
+//        • Napisz program, który odwraca ciąg liter w zadanym zdaniu (pisze wspak) oraz zmienia wielkość
+//        liter na przeciwną.
+//        ALGORYTM WYKONANIA:
+//        • W pętli odczytuj kolejne znaki obiektu klasy String
+//        • Za pomocą klasy Character badaj wielkość znaku i zamieniaj ją na przeciwną, a następnie dokładaj
+//        do budowanego napisu wynikowego

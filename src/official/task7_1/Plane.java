@@ -6,6 +6,7 @@ public class Plane extends Vehicle implements Flying {
 
     public Plane(String name) {
         super(name);
+        go();
     }
 
     @Override

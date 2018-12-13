@@ -22,8 +22,7 @@ public class Main {
     }
 }
 
-//
-//    CELE I ZADANIA:
+//        CELE I ZADANIA:
 //        • Napisz program zliczający, ile jest w wybranym przedziale (np. od 1234 do 2345 włącznie) liczb
 //        należących do ciągu Fibonacciego (tj. takich, że: a1 = 1, a2 = 1, an+2 = an+1 + an)
 //        ALGORYTM WYKONANIA:

@@ -12,12 +12,15 @@ public class Main {
     }
 
     public static boolean isLeapYear(int year){
-//        if(year%4 == 0){
-//            if(year%400 == 0){
-//                    return true;
-//            }
-//        }
-//        return false;
         return year%4 == 0 && year%400 == 0 ? true : false;
     }
 }
+
+//        CELE I ZADANIA:
+//        • Napisz program testujący, czy podany rok jest rokiem przestępnym
+//        ALGORYTM WYKONANIA:
+//        • Utwórz metodę o nazwie isLeapYear typu logicznego, która jako argument przyjmie testowany rok
+//        • Rok jest przestępny, jeśli jest podzielny przez 4, ale nie jest podzielny przez 100, chyba, że jest
+//        podzielny przez 400
+//        • Zakoduj powyższe reguły za pomocą wyrażeń warunkowych lub jegengo wyrażenia złożonego
+//        • Przetestuj działanie programu dla kilku wybranych lat

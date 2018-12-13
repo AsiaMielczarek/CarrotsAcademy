@@ -17,3 +17,17 @@ public class Main {
     }
 
 }
+
+//        CELE I ZADANIA:
+//        • Napisz program zliczający, ile jest w wybranym przedziale (np. od 1234 do 2345 włącznie) liczb
+//        o określonych właściwościach, np.:
+//        – liczb podzielnych przez 7
+//        – liczb podzielnych przez 13
+//        – liczb podzielnych przez 29
+//        – liczb podzielnych przez 43
+//        – liczb podzielnych przez przynajmniej jedną z powyższych liczb
+//        ALGORYTM WYKONANIA:
+//        • W rozwiązaniu użyj pętli
+//        • Do sprawdzenia, czy liczba jest podzielna bez reszty użyj operatora modulo
+//        • Opcjonalnie, rozbuduj program, tak, by działał dla dowolnej ilości podzielników
+//        • Podzielniki należy przekazać do programu jako parametry zewnętrzne
